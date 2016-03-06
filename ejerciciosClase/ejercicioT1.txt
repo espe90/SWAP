@@ -1,0 +1,12 @@
+Ejercicio 1: Buscar información sobre el tipo de contenido para el que los siguientes software de servidor web es más adecuado:
+
+	- apache:
+
+	- nginx: 
+	
+	- thttpd:
+	
+	- Cherokee:
+
+	- node.js: 
+	  
