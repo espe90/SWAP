@@ -1,6 +1,6 @@
 ##Ejercicio 1
 
-Buscar informacion sobre el tipo de contenido para el que los siguientes software de servidor web es mas adecuado:
+#Buscar informacion sobre el tipo de contenido para el que los siguientes software de servidor web es mas adecuado:
 
 **apache**: para el envio de paginas web estaticas y dinamicas en internet. Asi como compartir archivos desde una computadora personal hacia internet.
 
