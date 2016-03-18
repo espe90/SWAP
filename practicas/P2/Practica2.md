@@ -1,9 +1,9 @@
-##Práctica 2
+#Práctica 2
 
 A continuación pongo las diferentes capturas de pantalla con los resultados obtenidos de la práctica 2:
 
 
-#Uso herramienta rsync
+##Uso herramienta rsync
 
 Captura en la cuál vemos como se realiza la conexión de la máquina 1 con la 2:
 
@@ -26,8 +26,8 @@ Finalmente comprobamos que se encuentra compartida dicha carpeta en la máquina 2
 
 
 
-#Acceso sin contraseña para ssh
+##Acceso sin contraseña para ssh
 
 
 
-#Programar tareas con crontab
+##Programar tareas con crontab
