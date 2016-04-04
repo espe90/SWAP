@@ -15,14 +15,17 @@ Primero probamos el funcionamiento del rsync, clonando la carpeta con el conteni
 ##Acceso sin contraseña para ssh
 
 Para realizar el acceso de una máquina a otra sin la necesidad de poner contraseñas, realizaremos los siguientes pasos:
-	- Con el comando ssh-keygen generaremos la clave de tipo dsa. Ver siguiente captura.
-		![img](https://github.com/espe90/swap/blob/master/practicas/P2/ssh-keygen.png)
+
+Con el comando ssh-keygen generaremos la clave de tipo dsa. Ver siguiente captura.
+![img](https://github.com/espe90/swap/blob/master/practicas/P2/ssh-keygen.png)
 		
-	- A continuación, hacemos la copia de la clave existente con la ayuda del comando ssh-copy-id. Ver siguiente captura.
-		![img](https://github.com/espe90/swap/blob/master/practicas/P2/copy-id.png)
+A continuación, hacemos la copia de la clave existente con la ayuda del comando ssh-copy-id. Ver siguiente captura.
+
+![img](https://github.com/espe90/swap/blob/master/practicas/P2/copy-id.png)
 		
-	- Finalmente hacemos la comprobación para ver que se puede tomar el control de la máquina 1 desde la máquina 2. Ver siguiente captura.
-		![img](https://github.com/espe90/swap/blob/master/practicas/P2/acceso_sin_passwd.png)
+Finalmente hacemos la comprobación para ver que se puede tomar el control de la máquina 1 desde la máquina 2. Ver siguiente captura.
+
+![img](https://github.com/espe90/swap/blob/master/practicas/P2/acceso_sin_passwd.png)
 
 		
 ##Programar tareas con crontab
