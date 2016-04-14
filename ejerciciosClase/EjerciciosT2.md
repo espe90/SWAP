@@ -6,7 +6,7 @@ Linux-HA: es un framework utilizado para clústers de alta disponibilidad que use
 Microsoft: Operations Framework (MOF), se usa para conseguir alta disponibilidad en productos y tecnologías de Microsoft.
 
 
-**2.3 ¿Cómo analizar el nivel de carga de cada uno de los subsistemas en el servidor? Buscar herramientas y aprender a usarlas.**
+**T2.3 ¿Cómo analizar el nivel de carga de cada uno de los subsistemas en el servidor? Buscar herramientas y aprender a usarlas.**
 
 Top
 Performance Monitor en Windows.
