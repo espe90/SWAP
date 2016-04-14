@@ -1,0 +1,16 @@
+1. En un servidor ¿qué factores deben estar preparados para añadir recursos si son necesarios?
+	a) Sólo el software y hardware.
+	b) Cualquier sistema es escalable.
+	c) Tanto el software y el hardware como la estructura, organización y configuración de la red.
+	d) El hardware y la correcta configuración de la red.
+
+	Respuesta Correcta: C
+
+
+2. Para montar un pequeño sitio web sólo se necesita:
+	a) Una granja web.
+	b) Una máquina con el SO configurado, un servidor web y conexión a internet.
+	c) Sólo Apache.
+	d) Ubuntu Server o RedHat.
+
+	Respuesta Correcta: B
