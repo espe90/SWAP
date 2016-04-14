@@ -1,0 +1,16 @@
+2. GigIP es un balanceador hardware... ¿de qué empresa?
+	a) Cisco.
+	b) IBM.
+	c) F5.
+	d) Foundy.
+
+	Respuesta Correcta: C
+
+
+1. ¿Cuál de estos algorítmos no es un algorítmo de balanceo?
+	a) Round-Robin.
+	b) Minimax.
+	c) Según el tiempo de respuesta.
+	d) Por prioridad.
+
+	Respuesta Correcta: B
