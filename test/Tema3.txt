@@ -1,0 +1,16 @@
+1. ¿Al configurar una zona segura, ¿cómo se cominican los backbones?
+	a) Sólo con un cable.
+	b) Con un cortafuegos.
+	c) Con una tarjeta de red.
+	d) Ninguna de las anteriores es correcta.
+
+	Respuesta Correcta: B
+
+
+2. ¿Qué servicio no se ofrece por el front-rail?
+	a) HTTP.
+	b) FTP.
+	c) Base de datos. 
+	d) POP3.
+	
+	Respuesta Correcta: C
