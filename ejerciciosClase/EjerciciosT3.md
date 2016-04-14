@@ -11,7 +11,7 @@ En Linux: usamos el comando route. El esquema que se utiliza es el siguiente:
 En Windows Server existe una herramienta llamada "Enrutamiento y servicio remoto".
 
 
-**T3.1 Buscar con qué órdenes de terminal o herramientas gráficas podemos configurar bajo Windows y bajo Linux el filtrado y bloqueo de paquetes.**
+**T3.2 Buscar con qué órdenes de terminal o herramientas gráficas podemos configurar bajo Windows y bajo Linux el filtrado y bloqueo de paquetes.**
 
 En Linux podemos usar las distintas funcionalidades del comando iptables para el filtrado de paquetes.
 
