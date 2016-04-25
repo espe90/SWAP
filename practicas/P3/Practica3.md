@@ -17,7 +17,9 @@ Importamos la clave del repositorio de software.
 	rm -f /tmp/nginx_signing.key
 	
 Añadimos el repositorio al final del archivo **/etc/apt/sources.list**, mediante alguna de las siguientes ordenes.
+
 	echo "deb http://nginx.org/packages/ubuntu/ lucid nginx" >> /etc/apt/sources.list
+	
 	echo "deb-src http://nginx.org/packages/ubuntu/ lucid nginx" >> /etc/apt/sources.list
 	
 Una vez realizado esto configuramos el archivo **/etc/nginx/conf.d/default.conf** para que actue como en realidad nosotros queremos:
