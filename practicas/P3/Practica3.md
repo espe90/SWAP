@@ -30,7 +30,7 @@ Una vez realizado esto configuramos el archivo **/etc/nginx/conf.d/default.conf*
 
 A continuación solo queda comprobar que el balanceador nginx funciona correctamente:
 
-![img](https://github.com/espe90/swap/blob/master/practicas/P3/BalanceoNGINX.png)
+![img](https://github.com/espe90/swap/blob/master/practicas/P3/BalanceoNginx.jpg)
 
 
 
@@ -42,6 +42,6 @@ Modificamos el archivo **/etc/haproxy/haproxy.cfg**.
 ![img](https://github.com/espe90/swap/blob/master/practicas/P3/ConfigHaproxy.png)
 
 
-A continuación solo queda comprobar que el balanceador nginx funciona correctamente:
+A continuación solo queda comprobar que el balanceador HaProxy funciona correctamente:
 ![img](https://github.com/espe90/swap/blob/master/practicas/P3/BalanceoHaproxy.png)
 		
