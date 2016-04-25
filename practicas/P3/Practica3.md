@@ -11,6 +11,7 @@ A continuación mostramos las capturas de la configuración y puesta en marcha de 
 
 Una vez instalado en nuestra máquina, tal y como se indicaba en el guión de práctica:
 Importamos la clave del repositorio de software.
+
 	cd /tmp/
 	wget http://nginx.org/keys/nginx_signing.key
 	apt-key add /tmp/nginx_signing.key
