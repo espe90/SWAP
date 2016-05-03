@@ -1,0 +1,16 @@
+1. ¿Qué no es importante en un tráfico tipo "tienda web"?
+	a) Velocidad.
+	b) Experiencia de usuario.
+	c) Alto ancho de banda.
+	d) Ninguna de las anteriores.
+
+	Respuesta Correcta: C
+
+
+2. En HTTPerf, ¿qué significa --rate?
+	a) Conexiones por segundo.
+	b) Peticiones por conexión.
+	c) Número de peticiones.
+	d) IP. 
+	
+	Respuesta Correcta: B
