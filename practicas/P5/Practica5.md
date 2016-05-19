@@ -20,7 +20,7 @@ Quedando de la siguiente manera:
 
 #Replicación de la BD con mysqldump	
 A continuación, con el uso del siguiente comando, copiaremos desde la máquina principal (1) a la máquina secundaria (2) los datos que hay almacenados en la BD:
-![img](https://github.com/espe90/swap/blob/master/practicas/P5/copiaSSH.png)
+![img](https://github.com/espe90/swap/blob/master/practicas/P5/CopiaSSH.png)
 
 #Replicación de la BD mediante una configuración maestro-esclavo
 En la máquina principal, editamos el fichero /etc/mysql/my.cnf. Comentamos el parámetro de bind-address. Le indicamos un fichero para la generación de errores si no está creado por defecto, establecemos server-id = 1 y descomentamos log_bin. Guardamos y reiniciamos el servicio MySQL.
@@ -46,6 +46,7 @@ Para asegurarnos que está funcionando de forma correcta introduciremos el sigui
 ![img](https://github.com/espe90/swap/blob/master/practicas/P5/EsclavosOK.png)
 
 Como última comprobación, insertamos una tupla nueva en la máquina maestro y comprobaremos que se replica en el esclavo.
+
 ![img](https://github.com/espe90/swap/blob/master/practicas/P5/m1CreaDatosNuevos.png)
 ![img](https://github.com/espe90/swap/blob/master/practicas/P5/m2ConDatosNuevos.png)
 
