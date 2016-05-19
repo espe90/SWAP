@@ -6,6 +6,7 @@ En la cuarta práctica realizaremos unas pruebas de rendimiento a las opciones de
 
 #Apache Benchmark
 El primer benchmark que vamos a usar es el desarrollado por Apache. Lo realizaremos en una de las máquinas donde tenemos instalado Apache server. Lanzaremos el AB de la siguiente forma:
+
 	ab -n 1000 -c 10 http://www.example.com/test.html
 
 En la que se realizan 1000 solicitudes en concurrencias de 10. La URL es la ubicación de nuestro script en el servidor. 
@@ -20,6 +21,7 @@ Los resultados, ya representados en gráficas, son los siguientes:
 
 #Siege
 Dado que desde nuestra máquina virtual no ha sido posible realizar las oportunas medidas, lo hemos realizado desde windows, con la siguiente orden:
+
 	siege -c10 -d10 -r1 -v http://ip_máquina
 	
 Para calcular la media y la desviación deberemos generar una tabla como la de la siguiente imagen:
