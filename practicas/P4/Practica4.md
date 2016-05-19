@@ -23,9 +23,11 @@ Dado que desde nuestra máquina virtual no ha sido posible realizar las oportunas
 	siege -c10 -d10 -r1 -v http://ip_máquina
 	
 Para calcular la media y la desviación deberemos generar una tabla como la de la siguiente imagen:
+
 ![img](https://github.com/espe90/swap/blob/master/practicas/P4/siege.png)
 
 Los resultados, ya representados en gráficas, son los siguientes:
-	![img](https://github.com/espe90/swap/blob/master/practicas/P4/elapsed_siege.png)
-	![img](https://github.com/espe90/swap/blob/master/practicas/P4/transaction_siege.png)
-	![img](https://github.com/espe90/swap/blob/master/practicas/P4/failed_siege.png)
+
+![img](https://github.com/espe90/swap/blob/master/practicas/P4/elapsed_siege.png)
+![img](https://github.com/espe90/swap/blob/master/practicas/P4/transaction_siege.png)
+![img](https://github.com/espe90/swap/blob/master/practicas/P4/failed_siege.png)
