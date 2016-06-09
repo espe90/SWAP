@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2016-06-08 
 title: "Granja Web con Raspberry Pi"
 author 1: Esperanza Jiménez 
