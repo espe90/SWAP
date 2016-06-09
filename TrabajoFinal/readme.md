@@ -1,4 +1,4 @@
----
+﻿---
 date: 2016-06-08 
 title: "Granja Web con Raspberry Pi"
 author 1: Esperanza Jiménez 
@@ -11,6 +11,6 @@ Para ésto configuraremos tres Raspberry como servidores y una como balanceador,
 
 En los siguientes enlaces se encuentra la documentación.
 
-- [Memoria](https://github.com/espe90/swap/blob/master/TrabajoFinal/GranjaWeb.pdf)
+- [Memoria](https://github.com/espe90/swap/tree/master/TrabajoFinal/GranjaWeb.pdf)
 - [Presentación](http://slides.com/marlenevasquez/deck/fullscreen#/)
 
